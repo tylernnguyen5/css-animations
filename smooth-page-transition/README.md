@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-*Please click (here)[https://tylernnguyen5.github.io/css-animations/smooth-page-transition/] to be redirected* 
+*Please click (here)[https://tylernnguyen5.github.io/css-playground/smooth-page-transition/] to be redirected* 
 
 ![demo](demo.gif)
 
