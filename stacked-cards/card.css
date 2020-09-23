@@ -13,6 +13,7 @@ h1 {
 }
 
 h1 a {
+  text-decoration: none;
   background: linear-gradient(90deg, #ff8a00, #e52e71);
   text-shadow: none;
   background-clip: text;    /* Clip the background to look like the shape of the text */
